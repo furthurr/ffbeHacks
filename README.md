@@ -26,7 +26,7 @@ table.insert(characters, 'Ifrit 3🌟 lvl60').         -- you can change this na
 table.insert(stats, '7000;4500;7480;5060;3880;3880') -- you can change this values
 ```
 
-### Example
+### Example script -> /scripts/hackSpers.lua
 [![Watch the video](https://i.imgur.com/5CMNS1b.png)](https://www.youtube.com/watch?v=D-CFDYjOn9Q)
 
 ## Author
